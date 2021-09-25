@@ -1,6 +1,6 @@
 
 - 🔭 Trabalho com back-end
-- 🌱 Estudando Javascript
+- 🌱 Estudando TypeScript
 - 📫 Contate-me no email brunotruber45@gmail.com
 
  <div>
