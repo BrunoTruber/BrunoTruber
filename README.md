@@ -1,7 +1,7 @@
 
 - 🔭 Trabalho com back-end
 - 🌱 Estudando TypeScript
-- 📫 Contate-me no email brunotruber45@gmail.com
+- 📫 Contate-me no email brunotruberdesouza@gmail.com
 
  <div>
   <a href="https://github.com/BrunoTruber">
