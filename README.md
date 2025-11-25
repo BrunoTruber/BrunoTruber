@@ -1,20 +1,40 @@
+# 👋 Olá! Eu sou o Bruno Truber
 
-- 🔭 Trabalho com back-end
-- 🌱 Estudando 
-- 📫 Contate-me no email brunotruberdesouza@gmail.com
+- 🔭 Trabalho com **Back-end**
+- 🌱 Estudando e evoluindo diariamente
+- 📫 Contato: **brunotruberdesouza@gmail.com**
 
- <div>
-  <a href="https://github.com/BrunoTruber">
-  <img height="180em" src="https://streak-stats.demolab.com?user=BrunoTruber&theme=dark&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=BrunoTruber&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoTruber&layout=compact&langs_count=7&theme=dark"/>
+---
+
+<div align="center">
+
+  <!-- Streak -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=BrunoTruber&theme=tokyonight&hide_border=true" />
+
+  <!-- Stats -->
+  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=BrunoTruber&show_icons=true&theme=tokyonight&hide_border=true" />
+
 </div>
 
-  
- 
- ## 
-  
-<div>
-  <a href="https://www.linkedin.com/in/brunotruber" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:brunotruberdesouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+---
+
+<div align="center">
+
+  <!-- Linguagens -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoTruber&layout=compact&langs_count=7&theme=dark"/>
+
+</div>
+
+---
+
+## 🌐 Redes
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/brunotruber" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:brunotruberdesouza@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
