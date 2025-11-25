@@ -5,9 +5,11 @@
 
  <div>
   <a href="https://github.com/BrunoTruber">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoTruber&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=BrunoTruber&theme=dark&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=BrunoTruber&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoTruber&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
   
  
  ## 
