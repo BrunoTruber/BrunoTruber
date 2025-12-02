@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Bruno Truber
 
-- 🔭 Trabalho com **Back-end**
+- 🔭 Trabalho com **back-end**
 - 🌱 Estudando e evoluindo diariamente
 - 📫 Contato: **brunotruberdesouza@gmail.com**
 
