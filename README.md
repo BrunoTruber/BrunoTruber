@@ -7,7 +7,6 @@
 ---
 <div>
 
-
   <!-- Stats -->
   <img align="center" height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=BrunoTruber&show_icons=true&theme=tokyonight&hide_border=true" />
  
