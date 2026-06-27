@@ -1,6 +1,6 @@
 <h1 align="center">Olá! 👋 Eu sou o Bruno Truber</h1>
 <p align="center">
-  <strong>Desenvolvedor Back-end em formação • C# • .NET • SQL Server</strong>
+  <strong>C# • .NET • ASP.NET • SQL Server</strong>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end;Estudando+C%23+e+.NET;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
@@ -10,9 +10,10 @@
 </p>
 
 ## 🚀 Sobre mim
-💻 Apaixonado por desenvolvimento Back-end e tecnologia.
-📚 Atualmente estudando **C#**, **.NET**, **ASP.NET** e **SQL Server**.
-🎯 Meu objetivo é construir aplicações robustas, evoluir constantemente e conquistar minha primeira oportunidade como Desenvolvedor .NET.
+💼 Em busca da minha primeira oportunidade como Desenvolvedor .NET.
+📚 Atualmente estudando C#, .NET, ASP.NET e SQL Server.
+🛠️ Desenvolvendo projetos para aplicar os conhecimentos adquiridos e evoluir na área de desenvolvimento de software.
+🎯 Comprometido com aprendizado contínuo e boas práticas de programação.
 
 ## 💻 Tecnologias
 <p align="center">
