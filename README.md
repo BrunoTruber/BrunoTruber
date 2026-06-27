@@ -3,7 +3,7 @@
   <strong>C# • .NET • ASP.NET • SQL Server</strong>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end;Estudando+C%23+e+.NET;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=C%23+%26+.NET+Developer;Estudando+C%23+%E2%80%A2+.NET+%E2%80%A2+ASP.NET;Aprendendo%2C+praticando+e+evoluindo+todos+os+dias" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BrunoTruber&label=Visualizações&color=0e75b6&style=flat" alt="Contador de visitas"/>
