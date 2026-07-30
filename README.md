@@ -10,7 +10,6 @@
 </p>
 
 ## 🚀 Sobre mim
-💼 Em busca da minha primeira oportunidade como Desenvolvedor .NET.
 📚 Atualmente estudando C#, .NET, ASP.NET e SQL Server.
 🛠️ Desenvolvendo projetos para aplicar os conhecimentos adquiridos e evoluir na área de desenvolvimento de software.
 🎯 Comprometido com aprendizado contínuo e boas práticas de programação.
