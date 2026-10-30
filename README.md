@@ -21,7 +21,7 @@ Trabalho como desenvolvedor full stack e, no meu dia a dia, utilizo Java, Spring
 
 No backend, trabalho com APIs REST, PostgreSQL, Redis e Docker. No frontend, desenvolvo e faço manutenção de páginas, componentes e integrações com as APIs da aplicação.
 
-Fora do trabalho, também desenvolvo um projeto privado de longo prazo com C# e .NET. É um projeto que pretendo continuar evoluindo, por isso o código ainda não está disponível publicamente.
+Fora do trabalho, também desenvolvo um projeto privado de longo prazo com C# e .NET. É um projeto que pretendo continuar evoluindo.
 
 Tenho buscado melhorar principalmente meus conhecimentos em arquitetura, testes automatizados, segurança de APIs e organização de código.
 
